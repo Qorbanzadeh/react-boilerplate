@@ -2,11 +2,15 @@
 
 ## Installation
 
-```bash
-# yarn:
-yarn
+### Yarn installation
 
-# npm
+```bash
+yarn
+```
+
+### NPM installation
+
+```bash
 npm install
 ```
 
